@@ -1,0 +1,29 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xb0fFF812F80a1d58d121bC463BEACa52d2306597"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "BooAI MiniApp",
+    "homeUrl": "https://booai-miniapps.github.io/booai-miniapps/miniapp/",
+    "iconUrl": "https://via.placeholder.com/256",
+    "splashImageUrl": "https://via.placeholder.com/600",
+    "splashBackgroundColor": "#000000",
+    "subtitle": "Mint, list & buy NFTs on Base",
+    "description": "A social NFT marketplace mini-app built for Farcaster and Base.",
+    "screenshotUrls": [],
+    "primaryCategory": "social",
+    "tags": ["nft", "marketplace", "booai"],
+    "heroImageUrl": "https://via.placeholder.com/600",
+    "tagline": "Mint. List. Trade.",
+    "ogTitle": "BooAI MiniApp",
+    "ogDescription": "NFT marketplace built for Base.",
+    "ogImageUrl": "https://via.placeholder.com/600",
+    "noindex": true
+  }
+}
