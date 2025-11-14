@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xb0fFF812F80a1d58d121bC463BEACa52d2306597"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "BooAI",
+    "homeUrl": "https://booai-miniapp.github.io/booai-miniapps/miniapp/",
+    "iconUrl": "https://booai-miniapp.github.io/booai-miniapps/miniapp/icon.png",
+    "splashImageUrl": "https://booai-miniapp.github.io/booai-miniapps/miniapp/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "",
+    "subtitle": "Social NFT Mini App",
+    "description": "Mint, list & trade NFTs inside Base.",
+    "screenshotUrls": [],
+    "primaryCategory": "social",
+    "tags": ["nft", "marketplace", "booai"],
+    "heroImageUrl": "https://via.placeholder.com/600",
+    "tagline": "Mint. List. Trade.",
+    "ogTitle": "BooAI MiniApp",
+    "ogDescription": "NFT marketplace built natively for Base.",
+    "ogImageUrl": "https://via.placeholder.com/600",
+    "noindex": true
+  }
+}
